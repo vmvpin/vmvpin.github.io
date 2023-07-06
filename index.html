@@ -1,1 +1,11 @@
-Hello, World!
+---
+layout: default
+---
+
+<div class="grid-container blackie">
+    {% for game in site.games %}
+    <div class="image">
+        <a href="{{ game.permalink }}"><img src="{{ game.thumbnail }}" class="foo" alt="{{ game.title }}"></a>
+    </div>
+    {% endfor %}
+</div>
