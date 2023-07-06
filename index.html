@@ -2,10 +2,11 @@
 layout: default
 ---
 
-<div class="grid-container blackie">
-    {% for game in site.games %}
+<div class="grid-container">
+    {% assign sortedGames = site.games | date_sort | reverse %}
+    {% for game in sortedGames %}
     <div class="image">
-        <a href="{{ game.permalink }}"><img src="{{ game.thumbnail }}" class="foo" alt="{{ game.title }}"></a>
+        <a href="{{ game.permalink }}"><img src="{{ game.thumbnail }}" class="gameThumbnail" alt="{{ game.title }}"></a>
     </div>
     {% endfor %}
 </div>
