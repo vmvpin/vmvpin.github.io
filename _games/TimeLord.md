@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blood InvaderLord 2.0
+title: TimeLord 2.0
 description: This is a test
 thumbnail: images/timelord.jpg
 permalink: /games/timelord.html

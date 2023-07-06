@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="grid-container">
-    {% assign sortedGames = site.games | date_sort | reverse %}
+    {% assign sortedGames = site.games | reverse %}
     {% for game in sortedGames %}
     <div class="image">
         <a href="{{ game.permalink }}"><img src="{{ game.thumbnail }}" class="gameThumbnail" alt="{{ game.title }}"></a>
