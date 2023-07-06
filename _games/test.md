@@ -7,4 +7,5 @@ permalink: /games/test.html
 date: 2021-12-01
 ---
 
-<h1>Hello, WOrld</h1>
+Hello, WOrld
+{:.scoreText}
