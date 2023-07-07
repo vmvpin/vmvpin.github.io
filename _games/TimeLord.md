@@ -1,10 +1,22 @@
 ---
-layout: page
-title: TimeLord 2.0
-thumbnail: images/timelord.jpg
-permalink: /games/timelord.html
-date: 2021-01-01
+layout: default
+title: TimeLord
+thumbnail: images/TimeLord.png
+permalink: /games/TimeLord.html
+date: 2023-07-07
 ---
 
-Hello, World
-{:.scoreText}
+# TimeLord 
+{:.neontext}
+
+## High Scores 
+{:.scoretext}
+
+| Name | Score | 
+| :---- | ----: | 
+| KAS | 2090259500 | 
+| RUN | 2090025500 | 
+| HSM | 2013626500 | 
+| AAA | 2000000000 | 
+| 
+{:.scoreText .table .td}

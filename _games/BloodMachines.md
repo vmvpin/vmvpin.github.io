@@ -1,17 +1,22 @@
 ---
 layout: default
-title: Blood Machines
-thumbnail: images/bm.png
-permalink: /games/foo.html
-date: 2022-01-01
+title: bloodmachines
+thumbnail: images/bloodmachines.png
+permalink: /games/bloodmachines.html
+date: 2023-07-07
 ---
 
-# BloodMachines
+# bloodmachines 
 {:.neontext}
 
-| Name | Score |
-| :---- | ----: |
-| AAA | 300000000 |
-| BBB | 2000000 |
-| CCC | 1000000 |
+## High Scores 
+{:.scoretext}
+
+| Name | Score | 
+| :---- | ----: | 
+| RUN | 275173968 | 
+| HSM | 187947722 | 
+| HSM | 180112360 | 
+| 10000000 | 
+| 
 {:.scoreText .table .td}

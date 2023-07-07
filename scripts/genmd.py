@@ -28,18 +28,19 @@ def normal(f,md):
 def nba(f,md):
     print('what')
 
-for file in os.listdir("./../texts"):
+for file in os.listdir("C:\Visual Pinball\Hiscores\Text"):
     if file.endswith(".txt"):
         name = file.split('.')[0]
-        if not os.path.exists(f'./../scores/{name}.md'):
-            with open(f'./../scores/{name}.md','x'): pass
-        md = open(f'./../scores/{name}.md','a')
+        md_path = f'C:\\Visual Pinball\\vmvpin.github.io\\_games\\{name}.md'
+        if not os.path.exists(md_path):
+            with open(md_path,'x'): pass
+        md = open(md_path,'a')
         md.truncate(0)
         header(md,name)
         md.write(f'# {name} \n')
         md.write('{:.neontext}\n')
         md.write('\n')
-        with open(os.path.abspath(f'./../texts/{file}'), 'r') as f:
+        with open(os.path.abspath(f'C:\Visual Pinball\Hiscores\Text\{file}'), 'r') as f:
             if 'High Scores' in next(f):
                 normal(f,md)
             else:

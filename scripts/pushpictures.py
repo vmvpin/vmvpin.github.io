@@ -1,6 +1,6 @@
 from git import Repo
 
-repo = Repo("/Users/christian/Desktop/vpin/vmvpin.github.io")
+repo = Repo("C:\\Visual Pinball\\vmvpin.github.io")
 remote = repo.remote()
 repo.git.add("-A")
 if repo.is_dirty():
