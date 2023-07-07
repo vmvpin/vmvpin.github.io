@@ -50,7 +50,7 @@ body {
 
 .scoreText {
     color: white;
-    font-size: large;
+    font-size: xx-large;
     animation: flicker 1.5s infinite alternate;
 }
 

@@ -13,7 +13,7 @@ def header(md,name):
 
 def normal(f,md):
     md.write(f'## High Scores \n')
-    md.write('{:.scoretext}\n')
+    md.write('{:.scoreText}\n')
     md.write('\n')
     md.write(f'| Name | Score | \n')
     md.write(f'| :---- | ----: | \n')  
