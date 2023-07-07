@@ -10,7 +10,7 @@ date: 2023-07-07
 {:.neontext}
 
 ## High Scores 
-{:.scoreText}
+{:.scoretext}
 
 | Name | Score | 
 | :---- | ----: | 

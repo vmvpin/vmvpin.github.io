@@ -54,6 +54,12 @@ body {
     animation: flicker 1.5s infinite alternate;
 }
 
+.scoretext {
+    color: white;
+    font-size: xx-large;
+    animation: flicker 1.5s infinite alternate;
+}
+
 .image {
     filter:grayscale(35%);
     object-fit: contain;
