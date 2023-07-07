@@ -1,8 +1,8 @@
 ---
 layout: default
 title: TimeLord
-thumbnail: images/TimeLord.png
-permalink: /games/TimeLord.html
+thumbnail: images/timelord.png
+permalink: /games/timelord.html
 date: 2023-07-07
 ---
 
