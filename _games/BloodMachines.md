@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Blood Machines
-description: This is a test
 thumbnail: images/bm.png
 permalink: /games/foo.html
 date: 2022-01-01
@@ -15,4 +14,4 @@ date: 2022-01-01
 | AAA | 300000000 |
 | BBB | 2000000 |
 | CCC | 1000000 |
-{:.scoreText}
+{:.scoreText .table .td}

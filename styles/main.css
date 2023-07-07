@@ -9,7 +9,7 @@
     border: 0.2rem solid #fff;
     border-radius: 2rem;
     padding: 0.4em;
-    padding-bottom: 100%;
+    padding-bottom: 50%;
     box-shadow: 0 0 .2rem #fff,
                 0 0 .2rem #fff,
                 0 0 2rem #bc13fe,
@@ -60,6 +60,22 @@ body {
   }
 .image:hover {
     filter: grayscale(0%)
+}
+
+table { 
+    table-layout:fixed;
+    box-shadow: 0 0 .2rem #fff,
+                0 0 .2rem #fff,
+                0 0 2rem #0fa,
+                0 0 0.8rem #0fa,
+                0 0 2.8rem #0fa,
+                inset 0 0 1.3rem #0fa;
+}
+
+td { 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
 }
 
 
