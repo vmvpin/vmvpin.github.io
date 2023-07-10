@@ -3,14 +3,14 @@ layout: default
 title: bloodmachines
 thumbnail: images/bloodmachines.png
 permalink: /games/bloodmachines.html
-date: 2023-07-07
+date: 2023-07-10
 ---
 
 # bloodmachines 
 {:.neontext}
 
 ## High Scores 
-{:.scoretext}
+{:.scoreText}
 
 | Name | Score | 
 | :---- | ----: | 
