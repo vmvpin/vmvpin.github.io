@@ -83,7 +83,7 @@ pull()
 
 for file in os.listdir(getPath("text")):
     if file.endswith(".txt"):
-        name = file.split('.')[0].strip('-done')
+        name = file.split('.')[0].split('-done')[0]
         md_path = f'{getPath("scores")}{name}.md'
         if not os.path.exists(md_path):
             with open(md_path,'x'): pass

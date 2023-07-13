@@ -1,12 +1,12 @@
 ---
 layout: default
-title: TimeLor
-thumbnail: images/TimeLor.png
-permalink: /games/TimeLor.html
+title: TimeLord
+thumbnail: images/TimeLord.png
+permalink: /games/TimeLord.html
 date: 2023-07-13
 ---
 
-# TimeLor 
+# TimeLord 
 {:.neontext}
 
 ## HIGHEST SCORES
