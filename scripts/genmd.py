@@ -68,6 +68,8 @@ def nba(f,md):
             md.write('\n')
             new = False
         elif len(line.split()) > 1: 
+            if ')' in line.split()[0]:
+                line = ' '.join(line.split()[1:])
             for entry in line.strip().split():
                 md.write(f'| {entry} ')
             md.write('| \n')
@@ -81,7 +83,7 @@ pull()
 
 for file in os.listdir(getPath("text")):
     if file.endswith(".txt"):
-        name = file.split('.')[0]
+        name = file.split('.')[0].strip('-done')
         md_path = f'{getPath("scores")}{name}.md'
         if not os.path.exists(md_path):
             with open(md_path,'x'): pass

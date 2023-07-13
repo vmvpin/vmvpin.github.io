@@ -3,20 +3,16 @@ layout: default
 title: bloodmachines
 thumbnail: images/bloodmachines.png
 permalink: /games/bloodmachines.html
-date: 2023-07-07
+date: 2023-07-13
 ---
 
 # bloodmachines 
 {:.neontext}
 
-## High Scores 
-{:.scoretext}
+## HIGHEST SCORES
+{:.scoreText}
 
-| Name | Score | 
-| :---- | ----: | 
-| RUN | 275173968 | 
-| HSM | 187947722 | 
-| HSM | 180112360 | 
-| 10000000 | 
-| 
+| RUN | 275,173,968 | 
+| HSM | 187,947,722 | 
+| HSM | 180,112,360 | 
 {:.scoreText .table .td}
