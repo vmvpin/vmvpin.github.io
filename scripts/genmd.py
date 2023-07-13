@@ -102,5 +102,5 @@ for file in os.listdir(getPath("text")):
                 md.write('{:.scoreText}\n')
                 md.write('\n')
                 nba(f,md)
-
+print("Done updating, pushing to git")
 push()
