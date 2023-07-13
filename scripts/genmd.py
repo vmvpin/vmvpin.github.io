@@ -10,7 +10,7 @@ def pull():
 def push():
     repo = Repo("C:\\Visual Pinball\\vmvpin.github.io")
     remote = repo.remote()
-    repo.git.add(all=True)
+    repo.git.add("-A")
     if repo.is_dirty():
         repo.index.commit("Updated high scores md files")
     #remote.pull()
