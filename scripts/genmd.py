@@ -10,11 +10,11 @@ def pull():
 def push():
     repo = Repo("C:\\Visual Pinball\\vmvpin.github.io")
     remote = repo.remote()
-    repo.git.add(A=True)
+    repo.git.add(u=True)
     if repo.is_dirty():
         repo.index.commit("Updated high scores md files")
-    remote.pull()
-    remote.push()
+    #remote.pull()
+    #remote.push()
 
 def getPath(loc):
     if os.path.exists('C:\\Visual Pinball'):
