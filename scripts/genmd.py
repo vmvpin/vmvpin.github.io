@@ -13,8 +13,8 @@ def push():
     repo.git.add("-A")
     if repo.is_dirty():
         repo.index.commit("Updated high scores md files")
-    #remote.pull()
-    #remote.push()
+    remote.pull()
+    remote.push()
 
 def getPath(loc):
     if os.path.exists('C:\\Visual Pinball'):
