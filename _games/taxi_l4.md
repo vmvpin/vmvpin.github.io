@@ -3,9 +3,17 @@ layout: default
 title: taxi_l4
 thumbnail: images/taxi_l4.png
 permalink: /games/taxi_l4.html
-date: 2023-07-07
+date: 2023-07-13
 ---
 
 # taxi_l4 
 {:.neontext}
 
+## BEST DRIVERS
+{:.scoreText}
+
+| 1) | RUN | 8,844,530 | 
+| 2) | RUN | 5,203,970 | 
+| 3) | RUN | 4,899,760 | 
+| 4) | SJO | 4,500,000 | 
+{:.scoreText .table .td}

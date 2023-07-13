@@ -3,14 +3,14 @@ layout: default
 title: jpspacecadet
 thumbnail: images/jpspacecadet.png
 permalink: /games/jpspacecadet.html
-date: 2023-07-07
+date: 2023-07-13
 ---
 
 # jpspacecadet 
 {:.neontext}
 
 ## High Scores 
-{:.scoretext}
+{:.scoreText}
 
 | Name | Score | 
 | :---- | ----: | 

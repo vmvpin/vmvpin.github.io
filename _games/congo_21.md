@@ -1,0 +1,31 @@
+---
+layout: default
+title: congo_21
+thumbnail: images/congo_21.png
+permalink: /games/congo_21.html
+date: 2023-07-13
+---
+
+# congo_21 
+{:.neontext}
+
+## GRAND CHAMPION
+{:.scoreText}
+
+| WAG | 1,500,000,000 | 
+{:.scoreText .table .td}
+
+## HIGHEST SCORES
+{:.scoreText}
+
+| 1) | JT | 1,400,000,000 | 
+| 2) | EFH | 1,300,000,000 | 
+| 3) | VJP | 1,200,000,000 | 
+| 4) | ADG | 900,000,000 | 
+{:.scoreText .table .td}
+
+## DIAMOND CHAMPION
+{:.scoreText}
+
+| KO | 100 | DIAMONDS | 
+{:.scoreText .table .td}
