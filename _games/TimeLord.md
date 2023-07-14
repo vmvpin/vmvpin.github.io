@@ -3,7 +3,7 @@ layout: default
 title: TimeLord
 thumbnail: images/TimeLord.png
 permalink: /games/TimeLord.html
-date: 2023-07-13
+date: 2023-07-14
 ---
 
 # TimeLord 
@@ -12,8 +12,8 @@ date: 2023-07-13
 ## HIGHEST SCORES
 {:.scoreText}
 
+| KIM | 3,331,051,500 | 
 | KAS | 2,550,835,500 | 
 | KIM | 2,180,207,500 | 
 | KAS | 2,090,259,500 | 
-| RUN | 2,090,025,500 | 
 {:.scoreText .table .td}
