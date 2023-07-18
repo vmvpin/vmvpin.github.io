@@ -3,7 +3,7 @@ layout: default
 title: TNA
 thumbnail: images/TNA.png
 permalink: /games/TNA.html
-date: 2023-07-14
+date: 2023-07-18
 ---
 
 # TNA 
@@ -12,8 +12,8 @@ date: 2023-07-14
 ## HIGHEST SCORES
 {:.scoreText}
 
+| J3N | 1,834,072 | 
 | MAG | 1,366,941 | 
 | RBJ | 512,531 | 
 | HSM | 507,480 | 
-| RUN | 406,011 | 
 {:.scoreText .table .td}
