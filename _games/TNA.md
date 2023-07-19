@@ -3,7 +3,7 @@ layout: default
 title: TNA
 thumbnail: images/TNA.png
 permalink: /games/TNA.html
-date: 2023-07-18
+date: 2023-07-19
 ---
 
 # TNA 
