@@ -3,7 +3,7 @@ layout: default
 title: TNA
 thumbnail: images/TNA.png
 permalink: /games/TNA.html
-date: 2023-07-19
+date: 2023-07-20
 ---
 
 # TNA 
@@ -14,6 +14,6 @@ date: 2023-07-19
 
 | J3N | 1,834,072 | 
 | MAG | 1,366,941 | 
+| J3N | 1,004,911 | 
 | RBJ | 512,531 | 
-| HSM | 507,480 | 
 {:.scoreText .table .td}
