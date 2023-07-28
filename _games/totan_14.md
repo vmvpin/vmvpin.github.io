@@ -3,7 +3,7 @@ layout: default
 title: totan_14
 thumbnail: images/totan_14.png
 permalink: /games/totan_14.html
-date: 2023-07-24
+date: 2023-07-28
 ---
 
 # totan_14 
@@ -18,8 +18,8 @@ date: 2023-07-24
 ## SULTAN'S COURT
 {:.scoreText}
 
+| JEN | 12,480,290 | 
 | DAN | 11,863,200 | 
 | KOZ | 9,250,000 | 
 | POP | 9,000,000 | 
-| MAX | 8,750,000 | 
 {:.scoreText .table .td}
