@@ -3,7 +3,7 @@ layout: default
 title: rs_l6
 thumbnail: images/rs_l6.png
 permalink: /games/rs_l6.html
-date: 2023-07-31
+date: 2023-08-03
 ---
 
 # rs_l6 
