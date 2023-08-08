@@ -3,7 +3,7 @@ layout: default
 title: TimeLord
 thumbnail: images/TimeLord.png
 permalink: /games/TimeLord.html
-date: 2023-08-07
+date: 2023-08-08
 ---
 
 # TimeLord 
