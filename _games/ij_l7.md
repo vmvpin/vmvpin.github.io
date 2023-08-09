@@ -3,7 +3,7 @@ layout: default
 title: ij_l7
 thumbnail: images/ij_l7.png
 permalink: /games/ij_l7.html
-date: 2023-08-08
+date: 2023-08-09
 ---
 
 # ij_l7 
