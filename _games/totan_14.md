@@ -3,7 +3,7 @@ layout: default
 title: totan_14
 thumbnail: images/totan_14.png
 permalink: /games/totan_14.html
-date: 2023-08-11
+date: 2023-08-12
 ---
 
 # totan_14 

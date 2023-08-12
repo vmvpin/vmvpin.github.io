@@ -3,7 +3,7 @@ layout: default
 title: ft_l5
 thumbnail: images/ft_l5.png
 permalink: /games/ft_l5.html
-date: 2023-08-11
+date: 2023-08-12
 ---
 
 # ft_l5 
