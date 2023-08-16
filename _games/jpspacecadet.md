@@ -3,7 +3,7 @@ layout: default
 title: jpspacecadet
 thumbnail: images/jpspacecadet.png
 permalink: /games/jpspacecadet.html
-date: 2023-08-15
+date: 2023-08-16
 ---
 
 # jpspacecadet 
