@@ -3,7 +3,7 @@ layout: default
 title: lwar_a83
 thumbnail: images/lwar_a83.png
 permalink: /games/lwar_a83.html
-date: 2023-08-16
+date: 2023-08-17
 ---
 
 # lwar_a83 
