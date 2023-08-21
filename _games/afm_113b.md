@@ -6,9 +6,7 @@ permalink: /games/afm_113b.html
 date: 2023-08-21
 ---
 
-# afm_113b 
-{:.neontext}
-
+<img src="../images/afm_113b.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## GRAND CHAMPION
 {:.scoreText}
 

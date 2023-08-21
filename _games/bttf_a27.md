@@ -6,9 +6,7 @@ permalink: /games/bttf_a27.html
 date: 2023-08-21
 ---
 
-# bttf_a27 
-{:.neontext}
-
+<img src="../images/bttf_a27.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## WORLD RECORD
 {:.scoreText}
 

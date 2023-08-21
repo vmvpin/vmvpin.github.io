@@ -6,9 +6,7 @@ permalink: /games/VippsMobilePay_Pinball.html
 date: 2023-08-21
 ---
 
-# VippsMobilePay_Pinball 
-{:.neontext}
-
+<img src="../images/VippsMobilePay_Pinball.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## HIGHEST SCORES
 {:.scoreText}
 

@@ -6,9 +6,7 @@ permalink: /games/volkan.html
 date: 2023-08-21
 ---
 
-# volkan 
-{:.neontext}
-
+<img src="../images/volkan.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## High Scores 
 {:.scoreText}
 

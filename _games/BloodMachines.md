@@ -7,7 +7,6 @@ date: 2023-08-21
 ---
 
 <img src="../images/bloodmachines.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
-
 ## HIGHEST SCORES
 {:.scoreText}
 

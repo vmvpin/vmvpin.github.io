@@ -6,9 +6,7 @@ permalink: /games/totan_14.html
 date: 2023-08-21
 ---
 
-# totan_14 
-{:.neontext}
-
+<img src="../images/totan_14.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## GRAND CHAMPION
 {:.scoreText}
 

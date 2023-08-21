@@ -6,9 +6,7 @@ permalink: /games/TimeLord.html
 date: 2023-08-21
 ---
 
-# TimeLord 
-{:.neontext}
-
+<img src="../images/TimeLord.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## HIGHEST SCORES
 {:.scoreText}
 

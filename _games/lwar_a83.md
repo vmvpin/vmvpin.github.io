@@ -6,9 +6,7 @@ permalink: /games/lwar_a83.html
 date: 2023-08-21
 ---
 
-# lwar_a83 
-{:.neontext}
-
+<img src="../images/lwar_a83.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## HIGH SCORE
 {:.scoreText}
 

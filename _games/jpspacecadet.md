@@ -6,9 +6,7 @@ permalink: /games/jpspacecadet.html
 date: 2023-08-21
 ---
 
-# jpspacecadet 
-{:.neontext}
-
+<img src="../images/jpspacecadet.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## High Scores 
 {:.scoreText}
 

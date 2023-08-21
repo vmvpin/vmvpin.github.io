@@ -6,9 +6,7 @@ permalink: /games/ij_l7.html
 date: 2023-08-21
 ---
 
-# ij_l7 
-{:.neontext}
-
+<img src="../images/ij_l7.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## GRAND CHAMPION
 {:.scoreText}
 

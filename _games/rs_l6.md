@@ -6,9 +6,7 @@ permalink: /games/rs_l6.html
 date: 2023-08-21
 ---
 
-# rs_l6 
-{:.neontext}
-
+<img src="../images/rs_l6.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## GRAND CHAMPION
 {:.scoreText}
 

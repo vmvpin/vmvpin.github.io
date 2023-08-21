@@ -6,9 +6,7 @@ permalink: /games/taxi_l4.html
 date: 2023-08-21
 ---
 
-# taxi_l4 
-{:.neontext}
-
+<img src="../images/taxi_l4.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## BEST DRIVERS
 {:.scoreText}
 

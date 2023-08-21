@@ -6,9 +6,7 @@ permalink: /games/TNA.html
 date: 2023-08-21
 ---
 
-# TNA 
-{:.neontext}
-
+<img src="../images/TNA.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## HIGHEST SCORES
 {:.scoreText}
 

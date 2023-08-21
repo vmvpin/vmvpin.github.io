@@ -6,9 +6,7 @@ permalink: /games/congo_21.html
 date: 2023-08-21
 ---
 
-# congo_21 
-{:.neontext}
-
+<img src="../images/congo_21.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## GRAND CHAMPION
 {:.scoreText}
 

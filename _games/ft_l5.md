@@ -6,9 +6,7 @@ permalink: /games/ft_l5.html
 date: 2023-08-21
 ---
 
-# ft_l5 
-{:.neontext}
-
+<img src="../images/ft_l5.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 ## GRAND CHAMPION
 {:.scoreText}
 
