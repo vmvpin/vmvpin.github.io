@@ -2,11 +2,21 @@
 layout: default
 ---
 
-<div class="grid-container">
-    {% assign sortedGames = site.games | reverse %}
-    {% for game in sortedGames %}
-    <div class="image">
-        <a href="{{ game.permalink }}"><img src="{{ game.thumbnail }}" class="gameThumbnail" alt="{{ game.title }}"></a>
+
+<div class="container-fluid">
+    <div class="row">
+        {% assign foo = 0 %}
+        {% assign sortedGames = (site.games | sort) %}
+        {% for game in sortedGames %}
+        {% assign remainder = foo | modulo: 3 %}
+        {% if remainder == 0 %}
     </div>
-    {% endfor %}
+    <div class="row">
+        {% endif %}
+        <div class="col-lg-3 image">
+            <a href="{{ game.permalink }}"><img src="{{ game.thumbnail }}" class="gameThumbnail img-fluid mx-auto align-middle" alt="{{ game.title }}"></a>
+        </div>    
+        {% assign foo = foo | plus:1 %}
+        {% endfor %}
+    </div>
 </div>

@@ -90,8 +90,7 @@ for file in os.listdir(getPath("text")):
         md = open(md_path,'a')
         md.truncate(0)
         header(md,name)
-        md.write(f'# {name} \n')
-        md.write('{:.neontext}\n')
+        md.write(f'<img src="../images/{name}.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>')
         md.write('\n')
         with open(os.path.abspath(f'{getPath("text")}{file}'), 'r') as f:
             first = next(f)

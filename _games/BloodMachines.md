@@ -6,8 +6,7 @@ permalink: /games/bloodmachines.html
 date: 2023-08-21
 ---
 
-# bloodmachines 
-{:.neontext}
+<img src="../images/bloodmachines.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
 
 ## HIGHEST SCORES
 {:.scoreText}
