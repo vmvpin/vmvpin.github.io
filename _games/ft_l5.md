@@ -19,7 +19,7 @@ date: 2023-08-23
 | BAJ | 485,193,360 | 
 | RUN | 440,661,410 | 
 | ENE | 403,786,000 | 
-| ENE | 385,583,320 | 
+| KIM | 386,649,190 | 
 {:.scoreText .table .td}
 
 ## BIGGEST LIAR
