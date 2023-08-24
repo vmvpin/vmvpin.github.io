@@ -10,8 +10,8 @@ date: 2023-08-24
 ## HIGHEST SCORES:
 {:.scoreText}
 
+| RUN | 180 | 
+| KIM | 92 | 
 | HSM | 86 | 
 | AAA | 70 | 
-| ZZZ | 65 | 
-| XXX | 60 | 
 {:.scoreText .table .td}
