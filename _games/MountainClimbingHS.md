@@ -10,8 +10,8 @@ date: 2023-08-24
 ## HIGHEST SCORES:
 {:.scoreText}
 
+| RUN | 188 | 
 | RUN | 180 | 
 | HSM | 160 | 
 | HSM | 146 | 
-| HSM | 144 | 
 {:.scoreText .table .td}
