@@ -11,7 +11,7 @@ date: 2023-08-24
 {:.scoreText}
 
 | RUN | 180 | 
+| HSM | 146 | 
+| HSM | 144 | 
 | KIM | 92 | 
-| HSM | 86 | 
-| AAA | 70 | 
 {:.scoreText .table .td}
