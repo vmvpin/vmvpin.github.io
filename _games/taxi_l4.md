@@ -3,10 +3,10 @@ layout: default
 title: taxi_l4
 thumbnail: images/taxi_l4.png
 permalink: /games/taxi_l4.html
-date: 2023-08-24
+date: 2023-08-25
 ---
 
-<img src="../images/taxi_l4.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
+<img src="../images/taxi_l4.png" class="gameThumbnail img-fluid mx-auto align-middle">
 ## BEST DRIVERS
 {:.scoreText}
 

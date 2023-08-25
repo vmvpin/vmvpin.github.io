@@ -3,10 +3,10 @@ layout: default
 title: ij_l7
 thumbnail: images/ij_l7.png
 permalink: /games/ij_l7.html
-date: 2023-08-24
+date: 2023-08-25
 ---
 
-<img src="../images/ij_l7.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
+<img src="../images/ij_l7.png" class="gameThumbnail img-fluid mx-auto align-middle">
 ## GRAND CHAMPION
 {:.scoreText}
 

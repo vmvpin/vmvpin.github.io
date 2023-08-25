@@ -3,10 +3,10 @@ layout: default
 title: it_pinball_madness
 thumbnail: images/it_pinball_madness.png
 permalink: /games/it_pinball_madness.html
-date: 2023-08-24
+date: 2023-08-25
 ---
 
-<img src="../images/it_pinball_madness.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
+<img src="../images/it_pinball_madness.png" class="gameThumbnail img-fluid mx-auto align-middle">
 ## HIGHEST SCORES
 {:.scoreText}
 

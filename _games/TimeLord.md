@@ -3,10 +3,10 @@ layout: default
 title: TimeLord
 thumbnail: images/TimeLord.png
 permalink: /games/TimeLord.html
-date: 2023-08-24
+date: 2023-08-25
 ---
 
-<img src="../images/TimeLord.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
+<img src="../images/TimeLord.png" class="gameThumbnail img-fluid mx-auto align-middle">
 ## HIGHEST SCORES
 {:.scoreText}
 

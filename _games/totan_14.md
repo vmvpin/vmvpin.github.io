@@ -3,10 +3,10 @@ layout: default
 title: totan_14
 thumbnail: images/totan_14.png
 permalink: /games/totan_14.html
-date: 2023-08-24
+date: 2023-08-25
 ---
 
-<img src="../images/totan_14.png" class="gameThumbnail img-fluid mx-auto align-middle"></a>
+<img src="../images/totan_14.png" class="gameThumbnail img-fluid mx-auto align-middle">
 ## GRAND CHAMPION
 {:.scoreText}
 
