@@ -10,8 +10,8 @@ date: 2023-08-25
 ## HIGHEST SCORES
 {:.scoreText}
 
+| CHR | 13,009,630 | 
 | TTR | 8,000,000 | 
 | RMR | 7,500,000 | 
 | ABG | 7,000,000 | 
-| CDG | 6,500,000 | 
 {:.scoreText .table .td}
