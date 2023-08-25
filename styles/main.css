@@ -1,6 +1,4 @@
 .content {
-    display: flex;
-    flex-wrap: wrap;
     align-items: center;
     background-color: black;
     border: 0.2rem solid #fff;
@@ -24,7 +22,7 @@
     padding-left: 2%;
 }
 
-.image img{
+.image img {
     position:absolute;
     object-fit: cover;
     overflow: hidden;
@@ -46,6 +44,7 @@ body {
     background-repeat: no-repeat;
     background-color: black;
     background-size: 100% 100%;
+    color: white;
 }
 
 .scoreText {
@@ -64,7 +63,7 @@ body {
 .image {
     filter:grayscale(35%);
     object-fit: contain;
-  }
+}
 .image:hover {
     filter: grayscale(0%)
 }
