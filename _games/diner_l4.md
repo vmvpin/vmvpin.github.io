@@ -11,7 +11,7 @@ date: 2023-08-25
 {:.scoreText}
 
 | CHR | 13,009,630 | 
+| CHR | 10,393,580 | 
 | TTR | 8,000,000 | 
 | RMR | 7,500,000 | 
-| ABG | 7,000,000 | 
 {:.scoreText .table .td}
