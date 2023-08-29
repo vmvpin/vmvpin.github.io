@@ -2,6 +2,8 @@ import argparse
 import os
 from moviepy.editor import *
 
+# python3 text_to_video.py --text_color "#ff5820" --text_speed 120 scores.txt scores.mp4 "fonts/pinball.ttf"
+
 def create_video_from_text(text, args):
     moviesize = tuple(map(int, args.size.split('x')))
     w, h = moviesize
@@ -72,4 +74,5 @@ if __name__ == "__main__":
 
     with open(args.text_file, 'r') as f:
         text = f.read()
-        create_video_from_text(text, args)
+        upperText = text.upper()
+        create_video_from_text(upperText, args)

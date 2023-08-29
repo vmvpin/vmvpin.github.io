@@ -3,6 +3,9 @@ from PIL import Image, ImageDraw, ImageFont
 import os
 import math
 
+# python -m pip install Pillow==9.5.0
+# python3 text-to-image.py --max_lines 8 --text_color "#fc9a79" scores.txt score.png "fonts/pinball.ttf" --size "1920x1080" --background_color "#1a1817"
+
 def create_image_from_text(text, args):
     uppercaseText = text.upper()
     lines = uppercaseText.strip().splitlines()
