@@ -3,7 +3,7 @@ layout: default
 title: bloodmachines
 thumbnail: images/bloodmachines.png
 permalink: /games/bloodmachines.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/bloodmachines.png" class="gameThumbnail img-fluid mx-auto align-middle">

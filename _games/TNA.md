@@ -3,7 +3,7 @@ layout: default
 title: TNA
 thumbnail: images/TNA.png
 permalink: /games/TNA.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/TNA.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -11,7 +11,7 @@ date: 2023-09-01
 {:.scoreText}
 
 | J3N | 1,834,072 | 
+| RUN | 1,652,751 | 
 | RUN | 1,513,101 | 
 | MAG | 1,366,941 | 
-| MAG | 1,287,421 | 
 {:.scoreText .table .td}

@@ -3,7 +3,7 @@ layout: default
 title: it_pinball_madness
 thumbnail: images/it_pinball_madness.png
 permalink: /games/it_pinball_madness.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/it_pinball_madness.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -11,7 +11,7 @@ date: 2023-09-01
 {:.scoreText}
 
 | RBJ | 517,121,500 | 
+| SHK | 330,160,930 | 
+| SHK | 320,825,220 | 
 | SHK | 302,869,400 | 
-| SHK | 274,160,170 | 
-| SHK | 255,596,070 | 
 {:.scoreText .table .td}

@@ -3,7 +3,7 @@ layout: default
 title: Ballyhoo
 thumbnail: images/Ballyhoo.png
 permalink: /games/Ballyhoo.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/Ballyhoo.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -14,5 +14,5 @@ date: 2023-09-01
 | ECHO | is | off. | 
 | ECHO | is | off. | 
 | ECHO | is | off. | 
-0 
+2200 
 {:.scoreText .table .td}

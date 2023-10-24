@@ -3,29 +3,29 @@ layout: default
 title: afm_113b
 thumbnail: images/afm_113b.png
 permalink: /games/afm_113b.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/afm_113b.png" class="gameThumbnail img-fluid mx-auto align-middle">
 ## GRAND CHAMPION
 {:.scoreText}
 
-| RBJ | 9,665,793,990 | 
+| RUN | 15,171,397,880 | 
 {:.scoreText .table .td}
 
 ## HIGHEST SCORES
 {:.scoreText}
 
-| SLL | 7,500,000,000 | 
-| BRE | 7,000,000,000 | 
-| LFS | 6,500,000,000 | 
-| RBJ | 6,151,818,980 | 
+| EOF | 13,594,889,220 | 
+| HSM | 11,141,829,780 | 
+| RUN | 10,959,392,250 | 
+| RUN | 10,738,210,350 | 
 {:.scoreText .table .td}
 
 ## MARTIAN CHAMPION
 {:.scoreText}
 
-| RBJ | - | 28 | 
+| LFS | - | 20 | 
 | MARTIANS | DESTROYED | 
 {:.scoreText .table .td}
 
@@ -34,7 +34,7 @@ date: 2023-09-01
 
 TEX
 INAUGURATED
-| 15 | NOV, | 2022 | 1:16 | PM | 
+| 3 | OCT, | 2023 | 12:09 | AM | 
 {:.scoreText .table .td}
 
 ## BUY-IN HIGHEST SCORES

@@ -3,18 +3,15 @@ layout: default
 title: jpspacecadet
 thumbnail: images/jpspacecadet.png
 permalink: /games/jpspacecadet.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/jpspacecadet.png" class="gameThumbnail img-fluid mx-auto align-middle">
-## High Scores 
+## HIGHEST SCORES
 {:.scoreText}
 
-| Name | Score | 
-| :---- | ----: | 
-| K1M | 17790500 | 
-| CEN | 16315750 | 
-| K1M | 14315000 | 
-| K4R | 14311000 | 
-| 
+| K1M | 17,790,500 | 
+| CEN | 16,315,750 | 
+| K1M | 14,315,000 | 
+| K4R | 14,311,000 | 
 {:.scoreText .table .td}

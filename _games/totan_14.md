@@ -3,7 +3,7 @@ layout: default
 title: totan_14
 thumbnail: images/totan_14.png
 permalink: /games/totan_14.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/totan_14.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -16,8 +16,8 @@ date: 2023-09-01
 ## SULTAN'S COURT
 {:.scoreText}
 
+| JDD | 14,936,340 | 
 | JEN | 12,480,290 | 
 | DAN | 11,863,200 | 
-| KOZ | 9,250,000 | 
-| POP | 9,000,000 | 
+| EOF | 10,787,060 | 
 {:.scoreText .table .td}

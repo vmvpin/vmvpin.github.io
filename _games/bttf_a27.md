@@ -3,7 +3,7 @@ layout: default
 title: bttf_a27
 thumbnail: images/bttf_a27.png
 permalink: /games/bttf_a27.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/bttf_a27.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -19,8 +19,8 @@ date: 2023-09-01
 | RAY | 6,500,000 | 
 | BLS | 5,500,000 | 
 | NBW | 4,500,000 | 
+| A__ | 4,082,180 | 
 | P | G | 3,500,000 | 
-| A | A | 2,500,000 | 
 {:.scoreText .table .td}
 
 ## LOOP BACK CHAMP

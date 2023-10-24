@@ -3,18 +3,24 @@ layout: default
 title: volkan
 thumbnail: images/volkan.png
 permalink: /games/volkan.html
-date: 2023-09-01
+date: 2023-10-24
 ---
 
 <img src="../images/volkan.png" class="gameThumbnail img-fluid mx-auto align-middle">
-## High Scores 
+## HIGHEST SCORES
 {:.scoreText}
 
-| Name | Score | 
-| :---- | ----: | 
-| 30000 | 
-| 50000 | 
-| 331643 | 
-| 20000 | 
-| 
-{:.scoreText .table .td}
+55780
+
+## 66617
+{:.scoreText}
+
+
+## 331643
+{:.scoreText}
+
+
+## 20000
+{:.scoreText}
+
+
