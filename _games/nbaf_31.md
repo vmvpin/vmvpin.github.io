@@ -3,7 +3,7 @@ layout: default
 title: nbaf_31
 thumbnail: images/nbaf_31.png
 permalink: /games/nbaf_31.html
-date: 2023-10-25
+date: 2023-10-26
 ---
 
 <img src="../images/nbaf_31.png" class="gameThumbnail img-fluid mx-auto align-middle">
