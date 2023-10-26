@@ -10,16 +10,16 @@ date: 2023-10-26
 ## GRAND CHAMPION
 {:.scoreText}
 
-| RUN | 15,171,397,880 | 
+| KIM | 15,369,494,830 | 
 {:.scoreText .table .td}
 
 ## HIGHEST SCORES
 {:.scoreText}
 
+| RUN | 15,171,397,880 | 
 | EOF | 13,594,889,220 | 
 | HSM | 11,141,829,780 | 
 | RUN | 10,959,392,250 | 
-| RUN | 10,738,210,350 | 
 {:.scoreText .table .td}
 
 ## MARTIAN CHAMPION
