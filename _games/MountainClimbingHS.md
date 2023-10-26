@@ -11,7 +11,7 @@ date: 2023-10-26
 {:.scoreText}
 
 | RUN | 428 | 
+| KDP | 414 | 
 | KDP | 369 | 
 | RUN | 314 | 
-| RUN | 306 | 
 {:.scoreText .table .td}
