@@ -10,8 +10,8 @@ date: 2023-10-27
 ## HIGHEST SCORES
 {:.scoreText}
 
+| HSM | 2,156,711 | 
 | J3N | 1,834,072 | 
 | RUN | 1,652,751 | 
 | RUN | 1,513,101 | 
-| MAG | 1,366,941 | 
 {:.scoreText .table .td}
