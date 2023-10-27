@@ -16,16 +16,16 @@ date: 2023-10-27
 ## GRAND CHAMPION
 {:.scoreText}
 
-| RRR | 60,000,000 | 
+| RUN | 78,499,230 | 
 {:.scoreText .table .td}
 
 ## HIGHEST SCORES
 {:.scoreText}
 
+| RRR | 60,000,000 | 
 | POP | 45,000,000 | 
 | LTD | 40,000,000 | 
 | ROB | 35,000,000 | 
-| ZAB | 30,000,000 | 
 {:.scoreText .table .td}
 
 ## PARTY CHAMPION
