@@ -3,7 +3,7 @@ layout: default
 title: voodoo
 thumbnail: images/voodoo.png
 permalink: /games/voodoo.html
-date: 2023-10-30
+date: 2023-10-31
 ---
 
 <img src="../images/voodoo.png" class="gameThumbnail img-fluid mx-auto align-middle">
