@@ -3,7 +3,7 @@ layout: default
 title: nf_23x
 thumbnail: images/nf_23x.png
 permalink: /games/nf_23x.html
-date: 2023-10-31
+date: 2023-11-01
 ---
 
 <img src="../images/nf_23x.png" class="gameThumbnail img-fluid mx-auto align-middle">
