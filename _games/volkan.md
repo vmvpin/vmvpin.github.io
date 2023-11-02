@@ -3,7 +3,7 @@ layout: default
 title: volkan
 thumbnail: images/volkan.png
 permalink: /games/volkan.html
-date: 2023-11-01
+date: 2023-11-02
 ---
 
 <img src="../images/volkan.png" class="gameThumbnail img-fluid mx-auto align-middle">
