@@ -10,8 +10,8 @@ date: 2023-11-02
 ## HIGHEST SCORES:
 {:.scoreText}
 
+| KDP | 438 | 
 | RUN | 428 | 
 | KDP | 414 | 
 | KDP | 369 | 
-| RUN | 314 | 
 {:.scoreText .table .td}
