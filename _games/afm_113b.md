@@ -3,7 +3,7 @@ layout: default
 title: afm_113b
 thumbnail: images/afm_113b.png
 permalink: /games/afm_113b.html
-date: 2023-11-15
+date: 2023-11-16
 ---
 
 <img src="../images/afm_113b.png" class="gameThumbnail img-fluid mx-auto align-middle">
