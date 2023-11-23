@@ -3,7 +3,7 @@ layout: default
 title: cv_20h
 thumbnail: images/cv_20h.png
 permalink: /games/cv_20h.html
-date: 2023-11-22
+date: 2023-11-23
 ---
 
 <img src="../images/cv_20h.png" class="gameThumbnail img-fluid mx-auto align-middle">
