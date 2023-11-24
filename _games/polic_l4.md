@@ -10,8 +10,8 @@ date: 2023-11-24
 ## HI SCORES
 {:.scoreText}
 
+| RUN | 7,109,450 | 
 | MDR | 6,000,000 | 
 | BSO | 5,500,000 | 
 | PVA | 5,000,000 | 
-| CPG | 4,500,000 | 
 {:.scoreText .table .td}
