@@ -3,7 +3,7 @@ layout: default
 title: diner_l4
 thumbnail: images/diner_l4.png
 permalink: /games/diner_l4.html
-date: 2023-11-27
+date: 2023-11-28
 ---
 
 <img src="../images/diner_l4.png" class="gameThumbnail img-fluid mx-auto align-middle">
