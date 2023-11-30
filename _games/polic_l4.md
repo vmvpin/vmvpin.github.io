@@ -10,8 +10,8 @@ date: 2023-11-30
 ## HI SCORES
 {:.scoreText}
 
+| HSM | 9,004,610 | 
 | RUN | 7,109,450 | 
+| CHR | 6,746,520 | 
 | MDR | 6,000,000 | 
-| CHR | 5,657,490 | 
-| BSO | 5,500,000 | 
 {:.scoreText .table .td}
