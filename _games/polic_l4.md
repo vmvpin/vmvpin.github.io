@@ -11,7 +11,7 @@ date: 2023-11-30
 {:.scoreText}
 
 | HSM | 9,004,610 | 
+| CHR | 7,348,410 | 
 | RUN | 7,109,450 | 
 | CHR | 6,746,520 | 
-| MDR | 6,000,000 | 
 {:.scoreText .table .td}
