@@ -3,7 +3,7 @@ layout: default
 title: Ballyhoo
 thumbnail: images/Ballyhoo.png
 permalink: /games/Ballyhoo.html
-date: 2023-12-01
+date: 2023-12-02
 ---
 
 <img src="../images/Ballyhoo.png" class="gameThumbnail img-fluid mx-auto align-middle">
