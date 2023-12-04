@@ -3,7 +3,7 @@ layout: default
 title: bttf_a27
 thumbnail: images/bttf_a27.png
 permalink: /games/bttf_a27.html
-date: 2023-12-02
+date: 2023-12-04
 ---
 
 <img src="../images/bttf_a27.png" class="gameThumbnail img-fluid mx-auto align-middle">
