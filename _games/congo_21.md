@@ -3,7 +3,7 @@ layout: default
 title: congo_21
 thumbnail: images/congo_21.png
 permalink: /games/congo_21.html
-date: 2023-12-05
+date: 2023-12-06
 ---
 
 <img src="../images/congo_21.png" class="gameThumbnail img-fluid mx-auto align-middle">
