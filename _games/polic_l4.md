@@ -10,8 +10,8 @@ date: 2023-12-07
 ## HI SCORES
 {:.scoreText}
 
+| HSM | 14,252,390 | 
 | RUN | 11,961,030 | 
 | HSM | 9,004,610 | 
 | CHR | 8,995,990 | 
-| KIM | 8,858,890 | 
 {:.scoreText .table .td}
