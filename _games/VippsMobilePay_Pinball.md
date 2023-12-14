@@ -10,8 +10,8 @@ date: 2023-12-14
 ## HIGHEST SCORES
 {:.scoreText}
 
+| SHK | 24,879,779 | 
 | AAA | 1,500,000 | 
 | BBB | 1,400,000 | 
 | CCC | 1,300,000 | 
-| DDD | 1,200,000 | 
 {:.scoreText .table .td}
