@@ -3,7 +3,7 @@ layout: default
 title: VippsMobilePay_Pinball
 thumbnail: images/VippsMobilePay_Pinball.png
 permalink: /games/VippsMobilePay_Pinball.html
-date: 2023-12-22
+date: 2024-01-02
 ---
 
 <img src="../images/VippsMobilePay_Pinball.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -12,6 +12,6 @@ date: 2023-12-22
 
 | RUN | 117,460,720 | 
 | HSM | 84,724,163 | 
+| CHR | 59,218,950 | 
 | MAG | 43,004,969 | 
-| SHK | 24,879,779 | 
 {:.scoreText .table .td}
