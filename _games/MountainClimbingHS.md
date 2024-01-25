@@ -3,7 +3,7 @@ layout: default
 title: MountainClimbingHS
 thumbnail: images/MountainClimbingHS.png
 permalink: /games/MountainClimbingHS.html
-date: 2024-01-24
+date: 2024-01-25
 ---
 
 <img src="../images/MountainClimbingHS.png" class="gameThumbnail img-fluid mx-auto align-middle">
