@@ -3,7 +3,7 @@ layout: default
 title: whirl_l3
 thumbnail: images/whirl_l3.png
 permalink: /games/whirl_l3.html
-date: 2024-01-26
+date: 2024-01-29
 ---
 
 <img src="../images/whirl_l3.png" class="gameThumbnail img-fluid mx-auto align-middle">
