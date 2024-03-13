@@ -25,8 +25,8 @@ date: 2024-03-13
 ## TODAY'S HIGHEST SCORES
 {:.scoreText}
 
+| CHR | 683,036,280 | 
 | ASR | 583,000,000 | 
 | J | K | 533,000,000 | 
 | CJL | 483,000,000 | 
-| KIM | 455,510,590 | 
 {:.scoreText .table .td}
