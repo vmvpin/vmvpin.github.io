@@ -10,23 +10,23 @@ date: 2024-03-14
 ## GRAND CHAMPION
 {:.scoreText}
 
-| RUN | 2,924,560,530 | 
+| RUN | 3,762,764,310 | 
 {:.scoreText .table .td}
 
 ## ALL TIME HIGHEST SCORES
 {:.scoreText}
 
+| RUN | 2,924,560,530 | 
 | CHR | 2,786,615,660 | 
 | RUN | 2,779,920,320 | 
 | KIM | 1,620,853,680 | 
-| KIM | 1,536,734,940 | 
 {:.scoreText .table .td}
 
 ## TODAY'S HIGHEST SCORES
 {:.scoreText}
 
+| RUN | 3,762,764,310 | 
 | CHR | 2,786,615,660 | 
 | ASR | 583,000,000 | 
 | J | K | 533,000,000 | 
-| CJL | 483,000,000 | 
 {:.scoreText .table .td}
