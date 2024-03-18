@@ -3,7 +3,7 @@ layout: default
 title: rs_l6
 thumbnail: images/rs_l6.png
 permalink: /games/rs_l6.html
-date: 2024-03-15
+date: 2024-03-18
 ---
 
 <img src="../images/rs_l6.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -25,8 +25,8 @@ date: 2024-03-15
 ## TODAY'S HIGHEST SCORES
 {:.scoreText}
 
-| 1,804,022,090 | 
-| CCH | 1,148,783,470 | 
-| CHR | 1,002,429,160 | 
-| 745,034,290 | 
+| ASR | 583,000,000 | 
+| J | K | 533,000,000 | 
+| CJL | 483,000,000 | 
+| LED | 433,000,000 | 
 {:.scoreText .table .td}
