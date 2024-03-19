@@ -25,8 +25,8 @@ date: 2024-03-19
 ## TODAY'S HIGHEST SCORES
 {:.scoreText}
 
+| RUN | 687,172,880 | 
 | ASR | 583,000,000 | 
 | J | K | 533,000,000 | 
 | CJL | 483,000,000 | 
-| LED | 433,000,000 | 
 {:.scoreText .table .td}
