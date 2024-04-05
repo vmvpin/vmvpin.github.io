@@ -10,8 +10,8 @@ date: 2024-04-05
 ## HIGHEST SCORES
 {:.scoreText}
 
+| BBJ | 729,438,800 | 
 | RUN | 267,299,135 | 
-| VPX | 50,000,000 | 
-| VPX | 30,000,000 | 
-| KIM | 10,746,148 | 
+| CHR | 158,003,959 | 
+| KIM | 60,179,966 | 
 {:.scoreText .table .td}
