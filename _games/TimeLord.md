@@ -3,7 +3,7 @@ layout: default
 title: TimeLord
 thumbnail: images/TimeLord.png
 permalink: /games/TimeLord.html
-date: 2024-04-05
+date: 2024-04-08
 ---
 
 <img src="../images/TimeLord.png" class="gameThumbnail img-fluid mx-auto align-middle">

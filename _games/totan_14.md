@@ -3,7 +3,7 @@ layout: default
 title: totan_14
 thumbnail: images/totan_14.png
 permalink: /games/totan_14.html
-date: 2024-04-05
+date: 2024-04-08
 ---
 
 <img src="../images/totan_14.png" class="gameThumbnail img-fluid mx-auto align-middle">
