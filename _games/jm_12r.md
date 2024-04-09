@@ -3,7 +3,7 @@ layout: default
 title: jm_12r
 thumbnail: images/jm_12r.png
 permalink: /games/jm_12r.html
-date: 2024-04-08
+date: 2024-04-09
 ---
 
 <img src="../images/jm_12r.png" class="gameThumbnail img-fluid mx-auto align-middle">
