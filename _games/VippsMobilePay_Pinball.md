@@ -10,8 +10,8 @@ date: 2024-04-10
 ## HIGHEST SCORES
 {:.scoreText}
 
+| CHR | 730,446,161 | 
 | BBJ | 729,438,800 | 
 | KAS | 334,050,526 | 
 | RUN | 267,299,135 | 
-| CHR | 158,003,959 | 
 {:.scoreText .table .td}
