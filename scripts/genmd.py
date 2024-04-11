@@ -1,20 +1,5 @@
 import os
 from datetime import datetime
-from git import Repo
-
-def pull():
-    repo = Repo("C:\\Visual Pinball\\vmvpin.github.io")
-    remote = repo.remote()
-    remote.pull()
-
-def push():
-    repo = Repo("C:\\Visual Pinball\\vmvpin.github.io")
-    remote = repo.remote()
-    repo.git.add()
-    if repo.is_dirty():
-        repo.index.commit("Updated high scores md files")
-    remote.pull()
-    remote.push()
 
 def getPath(loc):
     if os.path.exists('C:\\Visual Pinball'):
@@ -79,7 +64,6 @@ def nba(f,md):
     if endTable:
         md.write('{:.scoreText .table .td}\n')
 
-pull()
 
 for file in os.listdir(getPath("text")):
     if file.endswith(".txt"):
@@ -101,5 +85,3 @@ for file in os.listdir(getPath("text")):
                 md.write('{:.scoreText}\n')
                 md.write('\n')
                 nba(f,md)
-print("Done updating, pushing to git")
-push()
