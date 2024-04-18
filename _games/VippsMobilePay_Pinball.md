@@ -10,8 +10,8 @@ date: 2024-04-18
 ## HIGHEST SCORES
 {:.scoreText}
 
-| CHR | 730,446,161 | 
-| BBJ | 729,438,800 | 
-| CHR | 531,713,031 | 
-| DAN | 522,621,470 | 
+| AAA | 1,500,000 | 
+| BBB | 1,400,000 | 
+| CCC | 1,300,000 | 
+| DDD | 1,200,000 | 
 {:.scoreText .table .td}
