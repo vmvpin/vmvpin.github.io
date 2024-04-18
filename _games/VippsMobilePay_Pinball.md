@@ -10,8 +10,8 @@ date: 2024-04-18
 ## HIGHEST SCORES
 {:.scoreText}
 
+| KNN | 5,275,350 | 
 | AAA | 1,500,000 | 
 | BBB | 1,400,000 | 
 | CCC | 1,300,000 | 
-| DDD | 1,200,000 | 
 {:.scoreText .table .td}
