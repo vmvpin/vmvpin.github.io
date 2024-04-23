@@ -3,7 +3,7 @@ layout: default
 title: rs_l6
 thumbnail: images/rs_l6.png
 permalink: /games/rs_l6.html
-date: 2024-04-22
+date: 2024-04-23
 ---
 
 <img src="../images/rs_l6.png" class="gameThumbnail img-fluid mx-auto align-middle">
