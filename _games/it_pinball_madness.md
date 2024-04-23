@@ -10,8 +10,8 @@ date: 2024-04-23
 ## HIGHEST SCORES
 {:.scoreText}
 
+| SHK | 542,972,500 | 
 | RBJ | 517,121,500 | 
 | SHK | 348,627,320 | 
 | SHK | 330,160,930 | 
-| SHK | 320,825,220 | 
 {:.scoreText .table .td}
