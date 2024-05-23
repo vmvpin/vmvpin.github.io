@@ -35,7 +35,9 @@ SHIFT
 SET GameType=%~1
 SHIFT
 
-ECHO VPX close script start>> "%STARTDIR%\scripts\logs\debug.log"
+set currentTIme=%time%
+
+ECHO %currentTIme% VPX close script start>> "%STARTDIR%\scripts\logs\debug.log"
 
 IF NOT "%ROM%"=="" (
     ECHO Starting high score generation...>> "%STARTDIR%\scripts\logs\debug.log"
