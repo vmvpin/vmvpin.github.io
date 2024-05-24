@@ -3,7 +3,7 @@ layout: default
 title: ww_lh6
 thumbnail: images/ww_lh6.png
 permalink: /games/ww_lh6.html
-date: 2024-05-23
+date: 2024-05-24
 ---
 
 <img src="../images/ww_lh6.png" class="gameThumbnail img-fluid mx-auto align-middle">
