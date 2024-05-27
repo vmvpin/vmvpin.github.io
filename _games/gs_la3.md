@@ -10,8 +10,8 @@ date: 2024-05-27
 ## HIGHEST SCORES
 {:.scoreText}
 
+| KIM | 18,912,960 | 
 | RUN | 16,596,710 | 
 | RUN | 16,135,670 | 
 | RUN | 15,426,900 | 
-| RUN | 13,606,130 | 
 {:.scoreText .table .td}
