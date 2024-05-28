@@ -3,7 +3,7 @@ layout: default
 title: polic_l4
 thumbnail: images/polic_l4.png
 permalink: /games/polic_l4.html
-date: 2024-05-27
+date: 2024-05-28
 ---
 
 <img src="../images/polic_l4.png" class="gameThumbnail img-fluid mx-auto align-middle">
