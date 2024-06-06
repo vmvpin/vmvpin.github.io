@@ -10,8 +10,8 @@ date: 2024-06-06
 ## HIGHEST SCORES
 {:.scoreText}
 
+| RUN | 86,091,419 | 
 | RUN | 55,545,912 | 
 | CCC | 30,000,000 | 
 | SHK | 27,658,103 | 
-| SHK | 21,457,323 | 
 {:.scoreText .table .td}
