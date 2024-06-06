@@ -10,8 +10,8 @@ date: 2024-06-06
 ## HIGHEST SCORES
 {:.scoreText}
 
-| AAA | 10,000,000 | 
-| BBB | 20,000,000 | 
+| RUN | 55,545,912 | 
 | CCC | 30,000,000 | 
-| DDD | 40,000,000 | 
+| BBB | 20,000,000 | 
+| AAA | 10,000,000 | 
 {:.scoreText .table .td}
