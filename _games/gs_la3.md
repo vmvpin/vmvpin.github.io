@@ -3,7 +3,7 @@ layout: default
 title: gs_la3
 thumbnail: images/gs_la3.png
 permalink: /games/gs_la3.html
-date: 2024-06-04
+date: 2024-06-06
 ---
 
 <img src="../images/gs_la3.png" class="gameThumbnail img-fluid mx-auto align-middle">
