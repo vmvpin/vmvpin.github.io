@@ -10,8 +10,8 @@ date: 2024-06-11
 ## HIGHEST SCORES
 {:.scoreText}
 
+| SHK | 182,072,808 | 
 | CHR | 181,282,126 | 
 | SHK | 166,356,420 | 
 | RUN | 86,091,419 | 
-| REJ | 70,602,988 | 
 {:.scoreText .table .td}
