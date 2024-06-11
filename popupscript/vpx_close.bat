@@ -70,6 +70,7 @@ REM ECHO Settings have been restored.>> "c:\Visual~1\Hiscores\scripts\logs\debug
 REM ECHO VPX close script end>> "c:\Visual~1\Hiscores\scripts\logs\debug.log"
 
 cd "C:\Visual Pinball\vmvpin.github.io"
+git pull
 git add .
 git commit -m "Hacked commit"
 git push
