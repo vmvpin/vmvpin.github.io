@@ -3,7 +3,7 @@ layout: default
 title: godzilla
 thumbnail: images/godzilla.png
 permalink: /games/godzilla.html
-date: 2024-06-11
+date: 2024-06-18
 ---
 
 <img src="../images/godzilla.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -29,5 +29,5 @@ date: 2024-06-11
 | #7 | DAY | 175,000,000 | 
 | #8 | ION | 150,000,000 | 
 | #9 | CHR | 141,685,150 | 
-| #10 | KRT | 125,000,000 | 
+| #10 | CHR | 128,072,630 | 
 {:.scoreText .table .td}
