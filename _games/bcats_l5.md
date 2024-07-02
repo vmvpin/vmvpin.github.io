@@ -11,7 +11,7 @@ date: 2024-07-02
 {:.scoreText}
 
 | RUN | 36,676,010 | 
+| RUN | 16,673,470 | 
 | RUN | 15,662,080 | 
 | RUN | 12,489,360 | 
-| HSM | 7,631,270 | 
 {:.scoreText .table .td}
