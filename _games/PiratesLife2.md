@@ -3,7 +3,7 @@ layout: default
 title: PiratesLife2
 thumbnail: images/PiratesLife2.png
 permalink: /games/PiratesLife2.html
-date: 2024-06-20
+date: 2024-07-02
 ---
 
 <img src="../images/PiratesLife2.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -11,7 +11,7 @@ date: 2024-06-20
 {:.scoreText}
 
 | RUN | 891,851,448 | 
+| CHR | 732,830,431 | 
 | CHR | 514,167,045 | 
 | RUN | 464,956,193 | 
-| RUN | 448,826,319 | 
 {:.scoreText .table .td}
