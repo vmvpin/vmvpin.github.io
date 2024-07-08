@@ -3,7 +3,7 @@ layout: default
 title: it_pinball_madness
 thumbnail: images/it_pinball_madness.png
 permalink: /games/it_pinball_madness.html
-date: 2024-07-05
+date: 2024-07-08
 ---
 
 <img src="../images/it_pinball_madness.png" class="gameThumbnail img-fluid mx-auto align-middle">
