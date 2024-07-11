@@ -3,7 +3,7 @@ layout: default
 title: PiratesLife2
 thumbnail: images/PiratesLife2.png
 permalink: /games/PiratesLife2.html
-date: 2024-07-10
+date: 2024-07-11
 ---
 
 <img src="../images/PiratesLife2.png" class="gameThumbnail img-fluid mx-auto align-middle">
