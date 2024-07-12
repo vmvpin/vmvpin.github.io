@@ -10,8 +10,8 @@ date: 2024-07-12
 ## HIGHEST SCORES
 {:.scoreText}
 
+| CHR | 1,051,975,940 | 
 | RUN | 891,851,448 | 
 | CHR | 732,830,431 | 
 | CHR | 724,606,491 | 
-| CHR | 514,167,045 | 
 {:.scoreText .table .td}
