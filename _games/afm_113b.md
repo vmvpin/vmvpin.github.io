@@ -25,7 +25,7 @@ date: 2024-07-18
 ## MARTIAN CHAMPION
 {:.scoreText}
 
-| LFS | - | 20 | 
+| KIM | - | 33 | 
 | MARTIANS | DESTROYED | 
 {:.scoreText .table .td}
 
