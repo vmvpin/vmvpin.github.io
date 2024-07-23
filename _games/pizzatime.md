@@ -3,7 +3,7 @@ layout: default
 title: pizzatime
 thumbnail: images/pizzatime.png
 permalink: /games/pizzatime.html
-date: 2024-07-22
+date: 2024-07-23
 ---
 
 <img src="../images/pizzatime.png" class="gameThumbnail img-fluid mx-auto align-middle">
