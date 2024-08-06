@@ -10,8 +10,8 @@ date: 2024-08-06
 ## MOVERS AND SHAKERS
 {:.scoreText}
 
+| 7,421,740 | 
 | JON | 6,500,000 | 
 | LED | 6,000,000 | 
 | PJ | 5,500,000 | 
-| SJO | 5,000,000 | 
 {:.scoreText .table .td}
