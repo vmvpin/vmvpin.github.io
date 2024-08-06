@@ -16,10 +16,10 @@ date: 2024-08-06
 ## TOP ANGLERS
 {:.scoreText}
 
+| RUN | 271,736,280 | 
 | MDR | 250,000,000 | 
 | MAX | 225,000,000 | 
 | JWS | 200,000,000 | 
-| CG | 175,000,000 | 
 {:.scoreText .table .td}
 
 ## BIGGEST LIAR
