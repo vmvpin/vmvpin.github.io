@@ -10,28 +10,28 @@ date: 2024-08-06
 ## GRAND CHAMPION
 {:.scoreText}
 
-| ENE | 625,525,420 | 
+| CRL | 300,000,000 | 
 {:.scoreText .table .td}
 
 ## TOP ANGLERS
 {:.scoreText}
 
-| BAJ | 485,193,360 | 
-| RUN | 440,661,410 | 
-| ENE | 403,786,000 | 
-| KIM | 386,649,190 | 
+| MDR | 250,000,000 | 
+| MAX | 225,000,000 | 
+| JWS | 200,000,000 | 
+| CG | 175,000,000 | 
 {:.scoreText .table .td}
 
 ## BIGGEST LIAR
 {:.scoreText}
 
-ENE
-| 9 | FISH | 5 | TALES | 
+PVA
+| 4 | FISH | 4 | TALES | 
 {:.scoreText .table .td}
 
 ## TOP BOAT ROCKER
 {:.scoreText}
 
-KIM
-| 8 | ROCK | BOATS | 
+TEX
+| 5 | ROCK | BOATS | 
 {:.scoreText .table .td}
