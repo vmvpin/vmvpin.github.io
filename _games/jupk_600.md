@@ -3,7 +3,7 @@ layout: default
 title: jupk_600
 thumbnail: images/jupk_600.png
 permalink: /games/jupk_600.html
-date: 2024-08-06
+date: 2024-08-07
 ---
 
 <img src="../images/jupk_600.png" class="gameThumbnail img-fluid mx-auto align-middle">
