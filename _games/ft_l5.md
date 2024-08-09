@@ -10,28 +10,28 @@ date: 2024-08-09
 ## GRAND CHAMPION
 {:.scoreText}
 
-| CRL | 300,000,000 | 
+| RUN | 648,606,790 | 
 {:.scoreText .table .td}
 
 ## TOP ANGLERS
 {:.scoreText}
 
+| CRL | 300,000,000 | 
 | RUN | 271,736,280 | 
 | RUN | 253,043,530 | 
 | MDR | 250,000,000 | 
-| MAX | 225,000,000 | 
 {:.scoreText .table .td}
 
 ## BIGGEST LIAR
 {:.scoreText}
 
-PVA
-| 4 | FISH | 4 | TALES | 
+RUN
+| 8 | FISH | 5 | TALES | 
 {:.scoreText .table .td}
 
 ## TOP BOAT ROCKER
 {:.scoreText}
 
-TEX
-| 5 | ROCK | BOATS | 
+RUN
+| 12 | ROCK | BOATS | 
 {:.scoreText .table .td}
