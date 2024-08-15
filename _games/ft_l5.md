@@ -3,7 +3,7 @@ layout: default
 title: ft_l5
 thumbnail: images/ft_l5.png
 permalink: /games/ft_l5.html
-date: 2024-08-13
+date: 2024-08-15
 ---
 
 <img src="../images/ft_l5.png" class="gameThumbnail img-fluid mx-auto align-middle">
@@ -16,10 +16,10 @@ date: 2024-08-13
 ## TOP ANGLERS
 {:.scoreText}
 
+| RUU | 374,233,940 | 
 | CRL | 300,000,000 | 
 | RUN | 271,736,280 | 
 | RUN | 253,043,530 | 
-| MDR | 250,000,000 | 
 {:.scoreText .table .td}
 
 ## BIGGEST LIAR
