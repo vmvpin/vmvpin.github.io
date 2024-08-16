@@ -16,10 +16,10 @@ date: 2024-08-16
 ## TOP ANGLERS
 {:.scoreText}
 
+| RUN | 506,948,750 | 
 | RUU | 374,233,940 | 
 | CRL | 300,000,000 | 
 | RUN | 271,736,280 | 
-| RUN | 253,043,530 | 
 {:.scoreText .table .td}
 
 ## BIGGEST LIAR
