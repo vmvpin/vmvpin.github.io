@@ -3,7 +3,7 @@ layout: default
 title: VippsMobilePay_Pinball
 thumbnail: images/VippsMobilePay_Pinball.png
 permalink: /games/VippsMobilePay_Pinball.html
-date: 2024-08-19
+date: 2024-08-20
 ---
 
 <img src="../images/VippsMobilePay_Pinball.png" class="gameThumbnail img-fluid mx-auto align-middle">
