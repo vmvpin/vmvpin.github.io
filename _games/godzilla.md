@@ -3,7 +3,7 @@ layout: default
 title: godzilla
 thumbnail: images/godzilla.png
 permalink: /games/godzilla.html
-date: 2024-08-22
+date: 2024-08-23
 ---
 
 <img src="../images/godzilla.png" class="gameThumbnail img-fluid mx-auto align-middle">
