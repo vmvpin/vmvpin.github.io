@@ -19,7 +19,7 @@ date: 2024-08-23
 | RUN | 506,948,750 | 
 | RUU | 374,233,940 | 
 | CRL | 300,000,000 | 
-| RUN | 271,736,280 | 
+| HSM | 299,665,640 | 
 {:.scoreText .table .td}
 
 ## BIGGEST LIAR
