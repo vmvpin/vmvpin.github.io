@@ -17,9 +17,9 @@ date: 2024-08-30
 {:.scoreText}
 
 | DAD | 700,000,000 | 
+| RUN | 667,184,010 | 
 | PML | 650,000,000 | 
 | J | K | 600,000,000 | 
-| C | G | 550,000,000 | 
 {:.scoreText .table .td}
 
 ## BUY-IN HIGHSCORES
