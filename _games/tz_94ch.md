@@ -3,7 +3,7 @@ layout: default
 title: tz_94ch
 thumbnail: images/tz_94ch.png
 permalink: /games/tz_94ch.html
-date: 2024-09-03
+date: 2024-09-04
 ---
 
 <img src="../images/tz_94ch.png" class="gameThumbnail img-fluid mx-auto align-middle">
