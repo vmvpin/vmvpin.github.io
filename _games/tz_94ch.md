@@ -10,16 +10,16 @@ date: 2024-09-05
 ## GRAND CHAMPION
 {:.scoreText}
 
-| NIK | 750,000,000 | 
+| RUN | 1,027,206,940 | 
 {:.scoreText .table .td}
 
 ## HIGHEST SCORES
 {:.scoreText}
 
+| NIK | 750,000,000 | 
 | DAD | 700,000,000 | 
 | RUN | 667,184,010 | 
 | PML | 650,000,000 | 
-| J | K | 600,000,000 | 
 {:.scoreText .table .td}
 
 ## BUY-IN HIGHSCORES
